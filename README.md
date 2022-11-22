@@ -1,0 +1,1 @@
+# VirtusaTraining_KARE
