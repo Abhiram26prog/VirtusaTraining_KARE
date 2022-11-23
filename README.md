@@ -6,4 +6,5 @@
 - Color Demo 
 - Juice (using Applet)
 - Scientific Calculator (Applet)
+- Puzzle Game
 - Notepad ( Mini Project)
