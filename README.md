@@ -8,3 +8,4 @@
 - Scientific Calculator (Applet)
 - Puzzle Game
 - Notepad ( Mini Project)
+##### To run these files just save and run in cmd using the commands javac & java.
